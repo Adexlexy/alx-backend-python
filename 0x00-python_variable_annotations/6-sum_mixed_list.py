@@ -25,3 +25,4 @@ if __name__ == '__main__':
     print(ans == sum(mixed))
     print("sum_mixed_list(mixed) returns {} which is a {}"
           .format(ans, type(ans)))
+    

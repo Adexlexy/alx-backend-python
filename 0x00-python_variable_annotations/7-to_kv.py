@@ -16,3 +16,4 @@ if __name__ == '__main__':
     print(to_kv.__annotations__)
     print(to_kv("eggs", 3))
     print(to_kv("school", 0.02))
+    

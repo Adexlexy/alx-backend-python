@@ -16,3 +16,4 @@ def element_length(lst: Iterable[Sequence]) -> List[Tuple[Sequence, int]]:
 
 if __name__ == '__main__':
     print(element_length.__annotations__)
+    

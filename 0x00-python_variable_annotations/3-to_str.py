@@ -14,3 +14,4 @@ if __name__ == '__main__':
     print(to_str(0.00))
 
     print(to_str.__annotations__)
+    

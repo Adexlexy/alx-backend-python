@@ -17,3 +17,4 @@ if __name__ == '__main__':
                                        i_understand_annotations))
 
     print("school is a {} with a value of {}".format(type(school), school))
+    

@@ -16,3 +16,4 @@ if __name__ == '__main__':
 
     print(concat(str1, str2) == "{}{}".format(str1, str2))
     print(concat.__annotations__)
+    
