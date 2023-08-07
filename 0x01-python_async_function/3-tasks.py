@@ -27,4 +27,3 @@ if __name__ == '__main__':
         print(task.__class__)
 
     asyncio.run(test(5))
-    

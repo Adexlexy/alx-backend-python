@@ -35,4 +35,3 @@ if __name__ == '__main__':
     print(asyncio.run(wait_n(5, 2)))
     print(asyncio.run(wait_n(7, 4)))
     print(asyncio.run(wait_n(10, 0)))
-    
